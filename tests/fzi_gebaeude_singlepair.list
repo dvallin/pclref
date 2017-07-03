@@ -1,0 +1,3 @@
+pc-file:e,gt-file:e,line:f,column:f,inline:f,from_matrix:f
+../../../no_backup/datasets/FZI_Gebaeude/pointcloud_0015.pcd,../../../no_backup/datasets/FZI_Gebaeude/poses.dat,13,1,1,0
+../../../no_backup/datasets/FZI_Gebaeude/pointcloud_0016.pcd,../../../no_backup/datasets/FZI_Gebaeude/poses.dat,14,1,1,0

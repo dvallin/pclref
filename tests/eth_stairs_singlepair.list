@@ -1,0 +1,3 @@
+pc-file:e,gt-file:e,line:f,column:f,inline:f
+../../../no_backup/datasets/ETH_Stairs/Hokuyo_3.csv,../../../no_backup/datasets/ETH_Stairs/pose_scanner_leica.csv,3,2,1
+../../../no_backup/datasets/ETH_Stairs/Hokuyo_5.csv,../../../no_backup/datasets/ETH_Stairs/pose_scanner_leica.csv,5,2,1

@@ -1,0 +1,16 @@
+library(ggplot2)
+library(stringr)
+require(reshape2)
+require(Hmisc)
+
+#names = c("nn0-histogram", "nn1-histogram", "nn2-histogram", "nn3-histogram", "nn4-histogram")
+names = c("persistence-histogram")
+        setwd("F:/Projects/elysium/rscripts/")
+        source("impl/utils.R")
+        source("impl/plotting.R")
+        source("impl/evaluations.R")
+        source("impl/histogramImpl.R")
+
+#setwd("../tests/archived_tests/")
+        setwd("../tests/archived_tests/feature_tests/shot_radius/eth_haupt/")
+        full_dir_eval(nullInit, nullSeedInit, histogramCalc, nullPrint)

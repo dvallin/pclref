@@ -1,0 +1,6 @@
+pc-file:e,gt-file:e,line:f,column:f,inline:f
+../../../no_backup/datasets/ETH_Mountain/Hokuyo_1.csv,../../../no_backup/datasets/ETH_Mountain/pose_scanner_leica.csv,1,2,1
+../../../no_backup/datasets/ETH_Mountain/Hokuyo_2.csv,../../../no_backup/datasets/ETH_Mountain/pose_scanner_leica.csv,2,2,1
+../../../no_backup/datasets/ETH_Mountain/Hokuyo_3.csv,../../../no_backup/datasets/ETH_Mountain/pose_scanner_leica.csv,3,2,1
+../../../no_backup/datasets/ETH_Mountain/Hokuyo_4.csv,../../../no_backup/datasets/ETH_Mountain/pose_scanner_leica.csv,4,2,1
+../../../no_backup/datasets/ETH_Mountain/Hokuyo_5.csv,../../../no_backup/datasets/ETH_Mountain/pose_scanner_leica.csv,5,2,1

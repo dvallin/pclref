@@ -1,0 +1,8 @@
+pc-file:e,gt-file:e,line:f,column:f,inline:f,from_matrix:f
+../../../no_backup/datasets/FZI_Gebaeude/pointcloud_0114.pcd,../../../no_backup/datasets/FZI_Gebaeude/poses.dat,71,1,1,0
+../../../no_backup/datasets/FZI_Gebaeude/pointcloud_0115.pcd,../../../no_backup/datasets/FZI_Gebaeude/poses.dat,71,1,1,0
+../../../no_backup/datasets/FZI_Gebaeude/pointcloud_0116.pcd,../../../no_backup/datasets/FZI_Gebaeude/poses.dat,71,1,1,0
+../../../no_backup/datasets/FZI_Gebaeude/pointcloud_0117.pcd,../../../no_backup/datasets/FZI_Gebaeude/poses.dat,71,1,1,0
+../../../no_backup/datasets/FZI_Gebaeude/pointcloud_0118.pcd,../../../no_backup/datasets/FZI_Gebaeude/poses.dat,71,1,1,0
+../../../no_backup/datasets/FZI_Gebaeude/pointcloud_0119.pcd,../../../no_backup/datasets/FZI_Gebaeude/poses.dat,71,1,1,0
+../../../no_backup/datasets/FZI_Gebaeude/pointcloud_0120.pcd,../../../no_backup/datasets/FZI_Gebaeude/poses.dat,71,1,1,0

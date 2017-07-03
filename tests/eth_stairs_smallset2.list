@@ -1,0 +1,9 @@
+pc-file:e,gt-file:e,line:f,column:f,inline:f
+../../../no_backup/datasets/ETH_Stairs/Hokuyo_11.csv,../../../no_backup/datasets/ETH_Stairs/pose_scanner_leica.csv,11,2,1
+../../../no_backup/datasets/ETH_Stairs/Hokuyo_12.csv,../../../no_backup/datasets/ETH_Stairs/pose_scanner_leica.csv,12,2,1
+../../../no_backup/datasets/ETH_Stairs/Hokuyo_13.csv,../../../no_backup/datasets/ETH_Stairs/pose_scanner_leica.csv,13,2,1
+../../../no_backup/datasets/ETH_Stairs/Hokuyo_14.csv,../../../no_backup/datasets/ETH_Stairs/pose_scanner_leica.csv,14,2,1
+../../../no_backup/datasets/ETH_Stairs/Hokuyo_15.csv,../../../no_backup/datasets/ETH_Stairs/pose_scanner_leica.csv,15,2,1
+../../../no_backup/datasets/ETH_Stairs/Hokuyo_16.csv,../../../no_backup/datasets/ETH_Stairs/pose_scanner_leica.csv,16,2,1
+../../../no_backup/datasets/ETH_Stairs/Hokuyo_17.csv,../../../no_backup/datasets/ETH_Stairs/pose_scanner_leica.csv,17,2,1
+../../../no_backup/datasets/ETH_Stairs/Hokuyo_18.csv,../../../no_backup/datasets/ETH_Stairs/pose_scanner_leica.csv,18,2,1
